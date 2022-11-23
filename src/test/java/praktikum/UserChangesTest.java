@@ -42,7 +42,6 @@ public class UserChangesTest {
         };
     }
 
-
     @Before
     public void setUp() {
         user = new UserClient();

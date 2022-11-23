@@ -22,7 +22,6 @@ public class GetOrderTest {
     private Order order;
     private String token;
 
-
     //Получение заказов конкретного пользователя: авторизованный пользователь
     @Test
     @DisplayName("Get orders with authorization")
